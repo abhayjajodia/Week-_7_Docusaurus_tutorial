@@ -18,7 +18,7 @@ const config = {
   url: 'https://abhayjajodia.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Week-_7_Docusaurus_tutorial/',
+  baseUrl: '/Week_7_Docusaurus_tutorial/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
